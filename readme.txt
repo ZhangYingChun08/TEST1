@@ -10,4 +10,6 @@
 新建git branch branchname；切换git checkout branchname
 或者：git checkout -b branchname   ----新建并切换到分支
 
-6.....从远程获取后，本地修改再签入
+6.....从远程获取后，本地修改再签入（想删除...）
+
+7....加入新的仓库后，第一次修改
