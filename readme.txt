@@ -16,4 +16,4 @@
 
 9...增加本行文本
 
-10...测试 git diff --cached
+10...测试 git diff --cached，克隆到本地新仓库后修改
