@@ -19,3 +19,5 @@
 10...测试 git diff --cached，克隆到本地新仓库后修改
 
 11...GIT升级到2.28版后，用  git switch  -c branch1  新建和切换分支
+
+12...在master分支修改。
