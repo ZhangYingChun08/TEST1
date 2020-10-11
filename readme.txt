@@ -33,3 +33,5 @@
 
 13...第一次测试自动合并失败后（手动合并后），再次测试合并，这里是 branch1 分支的第二次修改
 >>>>>>> branch1
+
+$ git log --graph --pretty=oneline --abbrev-commit
