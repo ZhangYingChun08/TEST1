@@ -18,4 +18,4 @@
 
 9....增加本行文本
 
-10...测试 git diff --cached
+10...测试 git diff --cached，在 远程仓库修改
