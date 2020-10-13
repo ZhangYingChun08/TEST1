@@ -39,7 +39,11 @@ $ git log --graph --pretty=oneline --abbrev-commit
 $ git branch -d branch1
 ------上面删除分支
 
+<<<<<<< HEAD
 -----------------------！！！！！！！！！！！！！！！！！！！！
 -----在 dev 分支修改
 
 ---- dev 分支修改还未 staged
+=======    通过 git cherry-pick 2b056ef 合并其他分支的修改，这里时自动合并失败，手动处理的
+-------新建临时 分支 issue-101 处理 BUG !!!  BUG 101
+>>>>>>> 2b056ef... fixed bug 101
